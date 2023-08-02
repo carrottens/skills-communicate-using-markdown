@@ -13,6 +13,10 @@
 
 # Step 3: adding a code example
 
-...
+```
 cout << "Hello World!" << endl;
-...
+```
+# Step 4: TASK LISTS!
+
+- [x] Complete the previous steps
+- [ ] Complete the following steps
